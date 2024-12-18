@@ -1,0 +1,8 @@
+﻿  registrar.cpp
+C:\Users\Lenovo\Desktop\data_structure_hw1\courseandstudent\courseandstudent\registrar.cpp(8,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\Desktop\data_structure_hw1\courseandstudent\courseandstudent\registrar.cpp(18,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\Desktop\data_structure_hw1\courseandstudent\courseandstudent\registrar.cpp(49,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\Desktop\data_structure_hw1\courseandstudent\courseandstudent\registrar.cpp(64,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\Desktop\data_structure_hw1\courseandstudent\courseandstudent\registrar.cpp(92,36): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Lenovo\Desktop\data_structure_hw1\courseandstudent\courseandstudent\registrar.cpp(100,37): warning C4018: '>': signed/unsigned mismatch
+  courseandstudent.vcxproj -> C:\Users\Lenovo\Desktop\data_structure_hw1\courseandstudent\Debug\courseandstudent.exe
